@@ -2,6 +2,8 @@
 
 It is a program that generates a random and secure password consisting of a combination of uppercase letters, lowercase letters, and digits. 
 
+Everytime it generates random password so users can make n number of passwords and secure their accounts.
+
 The program prompts the user to enter the desired length of the password, and then generates a password of the specified length using a random number generator. 
 
 The use of a random number generator ensures that the generated password is highly secure and difficult to guess or brute-force. The generated password is then displayed to the user on the screen, which they can use to secure their accounts and protect themselves from cyber threats.
